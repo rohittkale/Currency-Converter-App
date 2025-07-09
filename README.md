@@ -47,7 +47,7 @@ Visit 👉 http://localhost:5173 in your browser.
 ---
 
 ## 📦 Folder Structure
-
+```bash
 Currency-Converter/
 ├── 📁 node_modules/           # Project dependencies
 ├── 📁 public/                 # Static assets (e.g. favicon)
@@ -59,7 +59,7 @@ Currency-Converter/
 ├── 📄 package.json            # Project metadata and scripts
 ├── 📄 package-lock.json       # Dependency lock file
 └── 📄 README.md               # Project documentation
-
+```
 ---
 
 
