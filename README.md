@@ -29,3 +29,20 @@ A responsive and real-time **Currency Converter** web app built with **React.js*
 ```bash
 git clone https://github.com/your-username/Currency-Converter-App.git
 cd Currency-Converter-App
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run The Application
+
+```bash
+npm run dev
+```
+
+Visit 👉 http://localhost:5173 in your browser.
+
+
