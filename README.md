@@ -42,7 +42,24 @@ npm install
 ```bash
 npm run dev
 ```
-
 Visit 👉 http://localhost:5173 in your browser.
+
+---
+
+## 📦 Folder Structure
+
+Currency-Converter/
+├── 📁 node_modules/           # Project dependencies
+├── 📁 public/                 # Static assets (e.g. favicon)
+├── 📁 src/                    # Source code (components, main app logic)
+│
+├── 📄 .gitignore              # Files to be ignored by Git
+├── 📄 eslint.config.js        # ESLint configuration for code linting
+├── 📄 index.html              # HTML entry point
+├── 📄 package.json            # Project metadata and scripts
+├── 📄 package-lock.json       # Dependency lock file
+└── 📄 README.md               # Project documentation
+
+---
 
 
