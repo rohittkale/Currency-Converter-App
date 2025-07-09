@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+# 💱 Currency Converter - Currency Exchange Application 
 
 A responsive and real-time **Currency Converter** web app built with **React.js**, **Axios**, and **Vite**. It allows users to convert between global currencies using live exchange rates from the [ExchangeRate API](https://www.exchangerate-api.com/).
 
