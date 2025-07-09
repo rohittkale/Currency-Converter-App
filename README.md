@@ -68,7 +68,7 @@ Currency-Converter/
 ---
 
 ## 🙋‍♂️ Author
-Rohit Pran Kale <br>
-📧 kalerohit1912@gmail.com
+Name: Rohit Pran Kale<br>
+Mail: kalerohit1912@gmail.com
 
 
